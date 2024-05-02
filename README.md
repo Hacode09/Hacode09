@@ -9,9 +9,9 @@
 	
 </p>
 
-## I'm a Front-End Developer.
-- 🔭 I've a good knowledge of HTML, CSS JavaScript and React Js.
-- 🌱 I’m currently learning everything 🤣.
+## Software Developer.
+- 🔭 I've a good knowledge of HTML, CSS JavaScript and React Js, Node.Js, Nest.Js, MySQL .
+- 🌱 I’m currently learning everything.
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to listen music.
